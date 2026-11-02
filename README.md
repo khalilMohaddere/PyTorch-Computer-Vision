@@ -1,2 +1,6 @@
-# PyTorch-Computer-Vision
-A  collection of Deep Learning and Computer Vision projects implemented using PyTorch.
+#Smart Traffic Monitoring 
+PyTorch-Computer-Vision
+An AI-powered smart traffic monitoring system using YOLOv8, PyTorch, and OpenCV to detect, track, and count vehicles in real time through computer vision and object tracking techniques.
+
+
+
